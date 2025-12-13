@@ -19,84 +19,53 @@ I'm a passionate Software Engineering undergraduate at the University of Kelaniy
 
 ### 🛠️ Tech Stack & Skills
 
-#### **Frontend Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</p>
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" style="margin-right: 10px;"/>
 
-#### **Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+          
 
-#### **Tools, Platforms & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  </p>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" style="margin-right: 10px;"/>        
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
 ---
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  
     <img src="https://github-readme-stats.vercel.app/api?username=Avi511&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6" alt="Avi511's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi511&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=5CE1E6" alt="Avi511's Top Languages" height="165"/>
-  <br/>
-    <img src="https://streak-stats.demolab.com?user=Avi511&theme=react&hide_border=true&background=0D1117&fire=5CE1E6&ring=5CE1E6&currStreakLabel=5CE1E6" height="165" alt="GitHub Streak" />
-
 </div>
-
----
-
-### 🏆 Featured Projects
-
-> A curated selection of my work that I'm particularly proud of.
-
-<div align="center">
-
-| 📦 Project | 🛠️ Tech Stack | 📚 Description |
-| :--- | :--- | :--- |
-| **[Prime Supermarket](https://github.com/Avi511/PrimeSupermarket)** |`HTML` `CSS` `JS` | A front-end web application for supermarket management, featuring product & user CRUD operations. |
-| **[Simple Calculator](https://github.com/Avi511/Simple_Calculator-HTML-CSS-Js-)** | `HTML` `CSS` `JavaScript` | A clean, responsive calculator with basic arithmetic operations and a modern UI. |
-
-</div>
-
-<p align="center">💡 <i>Click on the project names to explore the code!</i></p>
-
----
-
-*Note: This updates automatically!*
 
 ---
 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:aimedagamagodage2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/avishka.ish/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Avi511">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:aimedagamagodage2003@gmail.com">
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/Avi511">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
 </p>
 ---
 <p align="center">
