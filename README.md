@@ -37,6 +37,7 @@ I'm a passionate Software Engineering undergraduate at the University of Kelaniy
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" style="margin-right: 10px;"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" style="margin-right: 10px;"/>
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" style="margin-right: 10px;" />
 
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" style="margin-right: 10px;"/>
   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" style="margin-right: 10px;"/>        
