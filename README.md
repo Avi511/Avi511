@@ -65,6 +65,22 @@ Hello, I'm **Avishka Ishan** 3rd year Software Engineering undergraduate focused
 
 ---
 
+## 📊 GitHub Status
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Avi511&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi511&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avi511&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Current Focus
 
 - MERN stack applications  
