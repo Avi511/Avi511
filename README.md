@@ -8,102 +8,113 @@
 
 ### 🔗 Connect
 
-<a href="mailto:aimedagamagodage2003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Avi511">
-  <img src="https://img.shields.io/badge/GitHub-0A0F1F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:aimedagamagodage2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Avi511">
+    <img src="https://img.shields.io/badge/GitHub-0A0F1F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Avishka Ishan** 3rd year Software Engineering undergraduate focused on building clean, scalable, and modern web applications.  
+Hello, I'm **Avishka Ishan**, a 3rd year Software Engineering undergraduate focused on building clean, scalable, and modern web applications.
 
 - Full-Stack Developer
 - Designer
-- Focused on performance & maintainability  
-- Passionate about solving real-world problems  
+- Focused on performance & maintainability
+- Passionate about solving real-world problems
 
 ---
 
 ## 🧰 Technologies
 
 ### Core
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java" />
+</p>
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,figma,docker" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,figma,docker" />
+</p>
 
 ---
 
 ## 🤝 Team & Work Style
 
-- Git & GitHub workflows (PRs, version control)  
-- Clean, maintainable code practices  
-- Frontend + backend integration  
+- Git & GitHub workflows
+- Clean, maintainable code practices
+- Frontend + backend integration
 - Learning DevOps & deployment
 
 ---
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=Avi511&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Avi511&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi511&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi511&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 📊 GitHub Status
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Avi511&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi511&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avi511&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avi511&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avi511&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avi511&theme=tokyonight" />
+</p>
 
 ## 🚀 Current Focus
 
-- MERN stack applications  
-- Docker & deployment  
-- Backend architecture & APIs  
+- MERN stack applications
+- Docker & deployment
+- Backend architecture & APIs
 
 ---
 
 ### 📬 Contact
 
-<a href="mailto:aimedagamagodage2003@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/Avi511">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<p>
+  <a href="mailto:aimedagamagodage2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/avishka-medagamagodage-01a0292aa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/Avi511">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Avi511&label=Profile%20Views&color=0b1f4d&style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avi511&label=Profile%20Views&color=0b1f4d&style=for-the-badge" />
+</p>
 
 ---
 
